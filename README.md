@@ -1,4 +1,5 @@
 # comm4190_F25_Product_Task: Jacket Design A/B Project
+Authors: Raelynn Cui and Mallika Kulkarni (Group 10). Note: Most of the github commits were conducted on Raelynn's local computer because we worked together on this a bit in person together!
 
 This project explores two concept jackets that integrate a jetpack feature and temperature control technology
 It includes creative brainstorming files, generated assets, and A/B testing results comparing **Product A (JetJacket)** and **Product B (Levium)**.
